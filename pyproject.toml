@@ -7,7 +7,7 @@ license = "MIT"
 readme = "README.md"
 homepage = "https://github.com/joaopalmeiro/toppics"
 repository = "https://github.com/joaopalmeiro/toppics"
-keywords = ["toppics", "cli"]
+keywords = ["toppics", "cli", "topics", "github", "api"]
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Environment :: Console",
@@ -17,6 +17,7 @@ classifiers = [
     "Natural Language :: English",
     "Operating System :: OS Independent",
     "Programming Language :: Python :: Implementation :: CPython",
+    "Topic :: Software Development :: Version Control :: Git",
     "Topic :: Terminals",
     "Topic :: Utilities"
 ]
