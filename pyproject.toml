@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "toppics"
-version = "0.0.1"
+version = "0.1.0"
 description = "A Python CLI for adding pre-defined topics to a GitHub repository."
 authors = ["João Palmeiro <joaommpalmeiro@gmail.com>"]
 license = "MIT"
