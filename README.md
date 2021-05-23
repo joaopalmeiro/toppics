@@ -28,3 +28,14 @@ A Python CLI for adding pre-defined topics to a GitHub repository.
 - [Bandit](https://bandit.readthedocs.io/)
 
 This CLI was created with [Cookiecutter](https://github.com/audreyr/cookiecutter) and the [`joaopalmeiro/cookiecutter-templates/python-cli`](https://github.com/joaopalmeiro/cookiecutter-templates) project template.
+
+## Notes
+
+- [Replace all repository topics](https://docs.github.com/en/rest/reference/repos#replace-all-repository-topics).
+- [ghapi](https://ghapi.fast.ai/) documentation:
+  - `repos.replace_all_topics(owner, repo, names)`.
+- [regex101](https://regex101.com/) website.
+- [Click 7](https://click.palletsprojects.com/en/7.x/) documentation:
+  - [Utils](https://click.palletsprojects.com/en/7.x/utils/).
+- [Click 8](https://click.palletsprojects.com/en/8.0.x/) documentation.
+- `toppics https://github.com/joaopalmeiro/toppics "Python CLI"`.
