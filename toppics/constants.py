@@ -3,8 +3,12 @@ from typing import Dict, List, Pattern
 
 # Topic lists
 PYTHON_CLI_TOPICS: List[str] = ["python", "cli"]
+AWESOME_LIST_TOPICS: List[str] = ["awesome", "awesome-list"]
 
-TOPICS: Dict[str, List[str]] = {"Python CLI": PYTHON_CLI_TOPICS}
+TOPICS: Dict[str, List[str]] = {
+    "Python CLI": PYTHON_CLI_TOPICS,
+    "Awesome": AWESOME_LIST_TOPICS,
+}
 
 # GitHub
 # More info:
